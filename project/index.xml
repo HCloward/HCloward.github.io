@@ -11,11 +11,20 @@
     
     
     <item>
-      <title>DSP Online Help Site</title>
-      <link>https://hcloward.github.io/project/project1/</link>
+      <title>DSP (Syniti) Help</title>
+      <link>https://hcloward.github.io/project/project5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/project/project1/</guid>
+      <guid>https://hcloward.github.io/project/project5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entota Help</title>
+      <link>https://hcloward.github.io/project/project4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/project/project4/</guid>
       <description></description>
     </item>
     
@@ -38,20 +47,11 @@
     </item>
     
     <item>
-      <title>Entota Help</title>
-      <link>https://hcloward.github.io/project/project4/</link>
+      <title>DSP Online Help Site</title>
+      <link>https://hcloward.github.io/project/project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/project/project4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DSP (Syniti) Help</title>
-      <link>https://hcloward.github.io/project/project5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hcloward.github.io/project/project5/</guid>
+      <guid>https://hcloward.github.io/project/project1/</guid>
       <description></description>
     </item>
     

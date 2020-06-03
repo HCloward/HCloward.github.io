@@ -21,11 +21,11 @@
     </item>
     
     <item>
-      <title>DSP Online Help Site</title>
-      <link>https://hcloward.github.io/project/project1/</link>
+      <title>DSP (Syniti) Help</title>
+      <link>https://hcloward.github.io/project/project5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/project/project1/</guid>
+      <guid>https://hcloward.github.io/project/project5/</guid>
       <description></description>
     </item>
     
@@ -35,6 +35,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hcloward.github.io/samplewritings/githubappauth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entota Help</title>
+      <link>https://hcloward.github.io/project/project4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/project/project4/</guid>
       <description></description>
     </item>
     
@@ -57,24 +66,6 @@
     </item>
     
     <item>
-      <title>Udacity Portfolio Site</title>
-      <link>https://hcloward.github.io/project/project3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hcloward.github.io/project/project3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Entota Help</title>
-      <link>https://hcloward.github.io/project/project4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hcloward.github.io/project/project4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>SSG Presentation</title>
       <link>https://hcloward.github.io/samplewritings/ssgpowerpoint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -84,11 +75,20 @@
     </item>
     
     <item>
-      <title>DSP (Syniti) Help</title>
-      <link>https://hcloward.github.io/project/project5/</link>
+      <title>Udacity Portfolio Site</title>
+      <link>https://hcloward.github.io/project/project3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/project/project5/</guid>
+      <guid>https://hcloward.github.io/project/project3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DSP Online Help Site</title>
+      <link>https://hcloward.github.io/project/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/project/project1/</guid>
       <description></description>
     </item>
     
@@ -138,7 +138,17 @@
     </item>
     
     <item>
-      <title>Deploying a Hugo site to GiHub pages</title>
+      <title>Creating custom shortcodes for Hugo when you are using a theme</title>
+      <link>https://hcloward.github.io/post/creating-custom-shortcodes-hugo/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/post/creating-custom-shortcodes-hugo/</guid>
+      <description>This is another post I am writing because I want to remember how to do it and the documentation I needed to understand this concept was not easily found, so this is a reference for me for later. 📌 The Hugo docs covering custom shortcodesis good, but it assumes you are not using a theme and I am for my blog site.
+I wanted to create some admonitions in posts for my blog; however, the theme I am using, Minimal, does not include shortcodes for admonitions.</description>
+    </item>
+    
+    <item>
+      <title>Deploying a Hugo site to GitHub pages</title>
       <link>https://hcloward.github.io/post/deploying-hugo-github-pages/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
