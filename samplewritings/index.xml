@@ -29,6 +29,15 @@
     </item>
     
     <item>
+      <title>Multibranch Pipeline Template syntax guide</title>
+      <link>https://hcloward.github.io/samplewritings/multibranch-yaml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/samplewritings/multibranch-yaml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Install and Configure the Connector Agent</title>
       <link>https://hcloward.github.io/samplewritings/agentdoc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

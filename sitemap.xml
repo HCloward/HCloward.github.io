@@ -23,11 +23,11 @@
   </url>
   
   <url>
-    <loc>https://hcloward.github.io/samplewritings/agentdoc/</loc>
+    <loc>https://hcloward.github.io/samplewritings/multibranch-yaml/</loc>
   </url>
   
   <url>
-    <loc>https://hcloward.github.io/samplewritings/ssgpowerpoint/</loc>
+    <loc>https://hcloward.github.io/samplewritings/agentdoc/</loc>
   </url>
   
   <url>
@@ -36,6 +36,10 @@
   
   <url>
     <loc>https://hcloward.github.io/project/project1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/samplewritings/ssgpowerpoint/</loc>
   </url>
   
   <url>
@@ -196,6 +200,10 @@
   
   <url>
     <loc>https://hcloward.github.io/tags/pandoc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/tags/pipelines/</loc>
   </url>
   
   <url>
