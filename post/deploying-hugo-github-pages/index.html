@@ -161,11 +161,11 @@
 <p>Create a separate GitHub account using the following naming pattern - &lt;GitHub_username&gt;github.io.</p>
 <blockquote class="admonition-type tip">
     Fun tip I learned while doing this is that you can add additional text to the end of the repo name pattern and it will still work. For example - &lt;GitHub_username&gt;github.io-blog will work. This is important because you can&rsquo;t have more than one repo with the same name and you may have multiple Hugo sites you want published to GH pages.
-  </blockquote>
+</blockquote>
 <p>Then you will add the &lt;GitHub_username&gt;.github.io repo as a submodule to the repo with the project files using the git command <code>git submodule add https://&lt;GitHub_username&gt;/&lt;GitHub_username&gt;github.io.git</code>.</p>
 <blockquote class="admonition-type info">
     You will get a warning that you are cloning into an empty directory, because it does not have any files as of yet. That is ok because we are going to add them soon enough.
-  </blockquote>
+</blockquote>
 <p>In your <code>config.toml</code> file, add a <code>publishDir</code> attribute and enter the name of the repo where you are sending your files, &ldquo;&lt;GitHub_username&gt;.github.io&rdquo;. Also, update the <code>baseURL</code> attribute to match the URL for your new site, &ldquo;https://&lt;GitHub_username&gt;/&lt;GitHub_username&gt;.github.io&rdquo;.</p>
 <p>Run a new production build for your site in your outermost directory using the build command for Hugo - <code>hugo</code>. Your files should now be in the new &lt;GitHub_username&gt;.github.io folder. Switch into the folder with the bash command <code>cd &lt;GitHub_username&gt;.github.io</code>. Stage, commit, and push your files to origin master.</p>
 <p>Once your files have been push up to the correct GitHub repo, you need to turn on the GitHub Pages feature in the Settings tab of your repo. Select the Source as the master branch. GitHub will present you with the new URL where you can visit your site. Then you will need to wait a few minutes for everything to get built.</p>
