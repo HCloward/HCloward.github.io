@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Heather Cloward</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hcloward.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deploying a Hugo site to GiHub pages</title>
+      <link>https://hcloward.github.io/post/deploying-hugo-github-pages/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/post/deploying-hugo-github-pages/</guid>
+      <description>I am mostly writing this so that I won&amp;rsquo;t forget for the next time I want to deploy a static site to GitHub pages. I should say a static site that is not a Jekyll site because a Jekyll site is different and more of an automated process since GitHub Pages are powered by Jekyll.
+With Hugo, there are a few more steps to accomplish to get your site deployed to GitHub pages.</description>
+    </item>
     
     <item>
       <title>Using an SSG for Technical Documentation</title>
