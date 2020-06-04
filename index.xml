@@ -93,6 +93,15 @@
     </item>
     
     <item>
+      <title>User Manual</title>
+      <link>https://hcloward.github.io/samplewritings/user-manual/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/samplewritings/user-manual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SSG Presentation</title>
       <link>https://hcloward.github.io/samplewritings/ssgpowerpoint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -111,20 +120,20 @@
     </item>
     
     <item>
-      <title>Main Benefits from my Udacity Program</title>
-      <link>https://hcloward.github.io/samplewritings/udacityres/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hcloward.github.io/samplewritings/udacityres/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Setting Up a Custom Domain</title>
       <link>https://hcloward.github.io/samplewritings/article2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hcloward.github.io/samplewritings/article2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application Policy</title>
+      <link>https://hcloward.github.io/samplewritings/applicationpolicy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/samplewritings/applicationpolicy/</guid>
       <description></description>
     </item>
     
@@ -138,11 +147,11 @@
     </item>
     
     <item>
-      <title>Application Policy</title>
-      <link>https://hcloward.github.io/samplewritings/applicationpolicy/</link>
+      <title>Main Benefits from my Udacity Program</title>
+      <link>https://hcloward.github.io/samplewritings/udacityres/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/samplewritings/applicationpolicy/</guid>
+      <guid>https://hcloward.github.io/samplewritings/udacityres/</guid>
       <description></description>
     </item>
     
