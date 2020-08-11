@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hcloward.github.io/samplewritings/developerguide/</loc>
-  </url>
-  
-  <url>
     <loc>https://hcloward.github.io/project/project5/</loc>
   </url>
   
   <url>
-    <loc>https://hcloward.github.io/samplewritings/githubappauth/</loc>
+    <loc>https://hcloward.github.io/samplewritings/developerguide/</loc>
   </url>
   
   <url>
     <loc>https://hcloward.github.io/project/project4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hcloward.github.io/samplewritings/githubappauth/</loc>
   </url>
   
   <url>
