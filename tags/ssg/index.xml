@@ -53,7 +53,7 @@
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://hcloward.github.io/post/creating-custom-shortcodes-hugo/</guid>
-      <description>This is another post I am writing because I want to remember how to do it and the documentation I needed to understand this concept was not easily found, so this is a reference for me for later. 📌 The Hugo docs covering custom shortcodesis good, but it assumes you are not using a theme and I am for my blog site.
+      <description>This is another post I am writing because I want to remember how to do it and the documentation I needed to understand this concept was not easily found, so this is a reference for me for later. 📌 The Hugo docs covering custom shortcodes is good, but it assumes you are not using a theme and I am for my blog site.
 I wanted to create some admonitions in posts for my blog; however, the theme I am using, Minimal, does not include shortcodes for admonitions.</description>
     </item>
     
