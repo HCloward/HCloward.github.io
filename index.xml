@@ -6,10 +6,33 @@
     <description>Recent content on Heather Cloward</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hcloward.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DSP (Syniti) Help</title>
+      <link>https://hcloward.github.io/project/project5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/project/project5/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://hcloward.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Event Hooks Examples</title>
+      <link>https://hcloward.github.io/samplewritings/eventhooksexs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/samplewritings/eventhooksexs/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Event Hooks Reference</title>
+      <link>https://hcloward.github.io/samplewritings/eventhooks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/samplewritings/eventhooks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CasC bundle management on Operations Center API</title>
@@ -21,11 +44,20 @@
     </item>
     
     <item>
-      <title>DSP (Syniti) Help</title>
-      <link>https://hcloward.github.io/project/project5/</link>
+      <title>Entota Help</title>
+      <link>https://hcloward.github.io/project/project4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/project/project5/</guid>
+      <guid>https://hcloward.github.io/project/project4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BOA Doc Team Process/Standards Docs Site</title>
+      <link>https://hcloward.github.io/project/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/project/project2/</guid>
       <description></description>
     </item>
     
@@ -48,11 +80,20 @@
     </item>
     
     <item>
-      <title>Entota Help</title>
-      <link>https://hcloward.github.io/project/project4/</link>
+      <title>Udacity Portfolio Site</title>
+      <link>https://hcloward.github.io/project/project3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/project/project4/</guid>
+      <guid>https://hcloward.github.io/project/project3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DSP Online Help Site</title>
+      <link>https://hcloward.github.io/project/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/project/project1/</guid>
       <description></description>
     </item>
     
@@ -62,15 +103,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hcloward.github.io/samplewritings/githubappauth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BOA Doc Team Process/Standards Docs Site</title>
-      <link>https://hcloward.github.io/project/project2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hcloward.github.io/project/project2/</guid>
       <description></description>
     </item>
     
@@ -93,29 +125,20 @@
     </item>
     
     <item>
-      <title>Udacity Portfolio Site</title>
-      <link>https://hcloward.github.io/project/project3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hcloward.github.io/project/project3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DSP Online Help Site</title>
-      <link>https://hcloward.github.io/project/project1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hcloward.github.io/project/project1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>User Manual</title>
       <link>https://hcloward.github.io/samplewritings/user-manual/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hcloward.github.io/samplewritings/user-manual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application Policy</title>
+      <link>https://hcloward.github.io/samplewritings/applicationpolicy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/samplewritings/applicationpolicy/</guid>
       <description></description>
     </item>
     
@@ -143,15 +166,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hcloward.github.io/samplewritings/article2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Application Policy</title>
-      <link>https://hcloward.github.io/samplewritings/applicationpolicy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hcloward.github.io/samplewritings/applicationpolicy/</guid>
       <description></description>
     </item>
     

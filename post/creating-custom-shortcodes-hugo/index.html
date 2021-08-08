@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us">
     <head>
-         
+        
+
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Creating custom shortcodes for Hugo when you are using a theme</title>
         
-        <link rel="icon" href="https://hcloward.github.io/fox.ico">
+            <link rel="icon" href="https://hcloward.github.io/fox.ico">
         
         <style>
 
@@ -35,17 +36,24 @@
  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/solarized-dark.min.css"> 
 
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="anonymous">
 
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
  
 
-
     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
-
-     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/go.min.js"></script>  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/haskell.min.js"></script>  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/kotlin.min.js"></script>  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/scala.min.js"></script>  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/swift.min.js"></script> 
-
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/go.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/haskell.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/kotlin.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/scala.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/swift.min.js"></script>
+    
     <script>hljs.initHighlightingOnLoad();</script>
 
 
@@ -53,47 +61,40 @@
 
 
 
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
 
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
 
 <script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
- <meta name="generator" content="Hugo 0.71.1" />
+ <meta name="generator" content="Hugo 0.87.0" />
         
 
         
+
+        
+            <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+        
+
+        
+
     </head>
 
-    
-    
-    <script type="text/javascript" async
-      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-    </script>
-    
-
     <body>
-         
+        
+
         <nav class="navbar navbar-default navbar-fixed-top">
-
             <div class="container">
-
                 <div class="navbar-header">
-
                     <a class="navbar-brand visible-xs" href="#">Creating custom shortcodes for Hugo when you are using a theme</a>
-
                     <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-
                 </div>
-
                 <div class="collapse navbar-collapse">
-
                     
                         <ul class="nav navbar-nav">
                             
@@ -107,56 +108,43 @@
                             
                         </ul>
                     
-
                     
                         <ul class="nav navbar-nav navbar-right">
                             
-                                <li class="navbar-icon"><a href="mailto:heathercloward@gmail.com"><i class="fa fa-envelope-o"></i></a></li>
+                                <li class="navbar-icon"><a href="mailto:heathercloward@gmail.com"><i class="envelope-o"></i></a></li>
                             
-                                <li class="navbar-icon"><a href="https://github.com/HCloward"><i class="fa fa-github"></i></a></li>
+                                <li class="navbar-icon"><a href="https://github.com/HCloward"><i class="github"></i></a></li>
                             
-                                <li class="navbar-icon"><a href="https://twitter.com/HeatherCloward1/"><i class="fa fa-twitter"></i></a></li>
+                                <li class="navbar-icon"><a href="https://twitter.com/HeatherCloward1/"><i class="twitter"></i></a></li>
                             
-                                <li class="navbar-icon"><a href="https://www.linkedin.com/in/heather-cloward-uxc-a4417878/"><i class="fa fa-linkedin"></i></a></li>
+                                <li class="navbar-icon"><a href="https://www.linkedin.com/in/heather-cloward-uxc-a4417878/"><i class="linkedin"></i></a></li>
                             
-                                <li class="navbar-icon"><a href="https://gitlab.com/heatherCl"><i class="fa fa-gitlab"></i></a></li>
+                                <li class="navbar-icon"><a href="https://gitlab.com/heatherCl"><i class="gitlab"></i></a></li>
                             
                         </ul>
                     
-
                 </div>
-
             </div>
-
         </nav>
 
 
 <main>
 
-    <div class="item">
+    <div>
+        <h2>Creating custom shortcodes for Hugo when you are using a theme</h2>
+        <h5>May 31, 2020</h5>
+        
+<a href="https://hcloward.github.io/tags/ssg"><kbd class="item-tag">SSG</kbd></a>
 
-    
-    
-    
-
-    
-    
-
-    <h4><a href="/post/creating-custom-shortcodes-hugo/">Creating custom shortcodes for Hugo when you are using a theme</a></h4>
-    <h5>May 31, 2020</h5>
-    
-    <a href="https://hcloward.github.io/tags/ssg"><kbd class="item-tag">SSG</kbd></a>
-    
-    <a href="https://hcloward.github.io/tags/hugo"><kbd class="item-tag">Hugo</kbd></a>
-    
-
-</div>
+<a href="https://hcloward.github.io/tags/hugo"><kbd class="item-tag">Hugo</kbd></a>
 
 
-    <br> <div class="text-justify"><p>This is another post I am writing because I want to remember how to do it and the documentation I needed to understand this concept was not easily found, so this is a reference for me for later. 📌  The <a href="https://gohugo.io/templates/shortcode-templates/">Hugo docs covering custom shortcodes</a> is good, but it assumes you are not using a theme and I am for my blog site.</p>
+    </div>
+
+    <div align="start" class="content"><p>This is another post I am writing because I want to remember how to do it and the documentation I needed to understand this concept was not easily found, so this is a reference for me for later. 📌  The <a href="https://gohugo.io/templates/shortcode-templates/">Hugo docs covering custom shortcodes</a> is good, but it assumes you are not using a theme and I am for my blog site.</p>
 <p>I wanted to create some admonitions in posts for my blog; however, the theme I am using, Minimal, does not include shortcodes for admonitions. I know it is possible to have shortcode admonitions for Hugo, so I decided to see if I could add my own shortcode.</p>
 <p>First, I went to the Hugo site and looked in the sample themes to see some examples and determine how the theme creators added them. I looked at <a href="https://themes.gohugo.io/ace-documentation/">Ace documentation</a> and got the basic understanding for how to set up the admonition, but I wanted a different kind of look to my admonitions.</p>
-<p>Afterwards, I found the Hugo <a href="https://themes.gohugo.io/hugo-book/">Book theme</a> and really liked what they called <a href="https://themes.gohugo.io/theme/hugo-book/docs/shortcodes/hints/">&quot;hints&quot;</a>. I decided to use their styling; however, they were using <a href="https://sass-lang.com/">Sass</a>, a CSS preprocessor and while I totally think that is the way to go, I didn&rsquo;t really feel like updating my current normal CSS files to Sass.</p>
+<p>Afterwards, I found the Hugo <a href="https://themes.gohugo.io/hugo-book/">Book theme</a> and really liked what they called <a href="https://themes.gohugo.io/theme/hugo-book/docs/shortcodes/hints/">&ldquo;hints&rdquo;</a>. I decided to use their styling; however, they were using <a href="https://sass-lang.com/">Sass</a>, a CSS preprocessor and while I totally think that is the way to go, I didn&rsquo;t really feel like updating my current normal CSS files to Sass.</p>
 <p>So I needed a way to convert the Sass just for the &ldquo;hints&rdquo;, but what I found was they were using variables that I had to find the variables first, otherwise I was getting a warning when I attempted to convert the Sass. Eventually, after finding the correct variable, I was able to convert the section of Sass I needed to CSS using a <a href="https://www.sassmeister.com/">Sass play area site</a>, which I then copied to my CSS file located in my static/css folder.</p>
 <p>I also needed to add the layouts/shortcodes folders to my project since I didn&rsquo;t have them yet. I added these folders at the same level as my content folder, being careful to use the exact naming and capitalization as indicated in the Hugo documentation. Then I added an admonition.html file to the layouts/shortcodes folder and pasted in the shortcode that the Hugo Book Theme used, with minor updates since I reworded mine to be &ldquo;admonitions&rdquo; instead of &ldquo;hints&rdquo;.</p>
 <p>Then I tested my updates by putting an note admonition into one of my posts and then did a local build using the build command <code>hugo server</code>, and it worked!  But I still wasn&rsquo;t satisfied because there were only three choices for admonitions: info, warning, and danger. I wanted an additional admonition for &ldquo;tips&rdquo;. So I found a good hexidecimal color for my &ldquo;tips&rdquo; addition and converted it to rgba for the background, and added the CSS class to my stylesheet. Now I have admonitions I can use in my posts. 😎</p>
@@ -164,11 +152,8 @@
 
     
     
-
     
-
         <h4 class="page-header">Related</h4>
-
          <div class="item">
 
     
@@ -181,12 +166,13 @@
     <h4><a href="/post/deploying-hugo-github-pages/">Deploying a Hugo site to GitHub pages</a></h4>
     <h5>May 31, 2020</h5>
     
-    <a href="https://hcloward.github.io/tags/ssg"><kbd class="item-tag">SSG</kbd></a>
-    
-    <a href="https://hcloward.github.io/tags/git"><kbd class="item-tag">Git</kbd></a>
-    
-    <a href="https://hcloward.github.io/tags/hugo"><kbd class="item-tag">Hugo</kbd></a>
-    
+<a href="https://hcloward.github.io/tags/ssg"><kbd class="item-tag">SSG</kbd></a>
+
+<a href="https://hcloward.github.io/tags/git"><kbd class="item-tag">Git</kbd></a>
+
+<a href="https://hcloward.github.io/tags/hugo"><kbd class="item-tag">Hugo</kbd></a>
+
+
 
 </div>
   <div class="item">
@@ -201,28 +187,30 @@
     <h4><a href="/post/ssgs/">Using an SSG for Technical Documentation</a></h4>
     <h5>February 21, 2019</h5>
     
-    <a href="https://hcloward.github.io/tags/ssg"><kbd class="item-tag">SSG</kbd></a>
-    
-    <a href="https://hcloward.github.io/tags/git"><kbd class="item-tag">Git</kbd></a>
-    
-    <a href="https://hcloward.github.io/tags/jekyll"><kbd class="item-tag">Jekyll</kbd></a>
-    
+<a href="https://hcloward.github.io/tags/ssg"><kbd class="item-tag">SSG</kbd></a>
+
+<a href="https://hcloward.github.io/tags/git"><kbd class="item-tag">Git</kbd></a>
+
+<a href="https://hcloward.github.io/tags/jekyll"><kbd class="item-tag">Jekyll</kbd></a>
+
+
 
 </div>
  
-
     
 
+    
     
 
 </main>
 
         <footer>
-
-            <p class="copyright text-muted">© All rights reserved. Powered by <a href="https://gohugo.io">Hugo</a> and <a href="https://github.com/calintat/minimal">Minimal</a></p>
-
+            <p class="copyright text-muted">© All rights reserved. Powered by <a href="https://gohugo.io">Hugo</a> and <a href="https://github.com/calintat/minimal">Minimal</a>.</p>
         </footer>
-       
+
+        
+
+        
     </body>
 
 </html>

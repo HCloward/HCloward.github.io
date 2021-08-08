@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us">
     <head>
-         
+        
+
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Using Git with MadCap Flare</title>
         
-        <link rel="icon" href="https://hcloward.github.io/fox.ico">
+            <link rel="icon" href="https://hcloward.github.io/fox.ico">
         
         <style>
 
@@ -35,17 +36,24 @@
  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/solarized-dark.min.css"> 
 
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="anonymous">
 
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
  
 
-
     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
-
-     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/go.min.js"></script>  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/haskell.min.js"></script>  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/kotlin.min.js"></script>  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/scala.min.js"></script>  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/swift.min.js"></script> 
-
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/go.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/haskell.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/kotlin.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/scala.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/swift.min.js"></script>
+    
     <script>hljs.initHighlightingOnLoad();</script>
 
 
@@ -53,47 +61,40 @@
 
 
 
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
 
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
 
 <script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
- <meta name="generator" content="Hugo 0.71.1" />
+ <meta name="generator" content="Hugo 0.87.0" />
         
 
         
+
+        
+            <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+        
+
+        
+
     </head>
 
-    
-    
-    <script type="text/javascript" async
-      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-    </script>
-    
-
     <body>
-         
+        
+
         <nav class="navbar navbar-default navbar-fixed-top">
-
             <div class="container">
-
                 <div class="navbar-header">
-
                     <a class="navbar-brand visible-xs" href="#">Using Git with MadCap Flare</a>
-
                     <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-
                 </div>
-
                 <div class="collapse navbar-collapse">
-
                     
                         <ul class="nav navbar-nav">
                             
@@ -107,57 +108,44 @@
                             
                         </ul>
                     
-
                     
                         <ul class="nav navbar-nav navbar-right">
                             
-                                <li class="navbar-icon"><a href="mailto:heathercloward@gmail.com"><i class="fa fa-envelope-o"></i></a></li>
+                                <li class="navbar-icon"><a href="mailto:heathercloward@gmail.com"><i class="envelope-o"></i></a></li>
                             
-                                <li class="navbar-icon"><a href="https://github.com/HCloward"><i class="fa fa-github"></i></a></li>
+                                <li class="navbar-icon"><a href="https://github.com/HCloward"><i class="github"></i></a></li>
                             
-                                <li class="navbar-icon"><a href="https://twitter.com/HeatherCloward1/"><i class="fa fa-twitter"></i></a></li>
+                                <li class="navbar-icon"><a href="https://twitter.com/HeatherCloward1/"><i class="twitter"></i></a></li>
                             
-                                <li class="navbar-icon"><a href="https://www.linkedin.com/in/heather-cloward-uxc-a4417878/"><i class="fa fa-linkedin"></i></a></li>
+                                <li class="navbar-icon"><a href="https://www.linkedin.com/in/heather-cloward-uxc-a4417878/"><i class="linkedin"></i></a></li>
                             
-                                <li class="navbar-icon"><a href="https://gitlab.com/heatherCl"><i class="fa fa-gitlab"></i></a></li>
+                                <li class="navbar-icon"><a href="https://gitlab.com/heatherCl"><i class="gitlab"></i></a></li>
                             
                         </ul>
                     
-
                 </div>
-
             </div>
-
         </nav>
 
 
 <main>
 
-    <div class="item">
+    <div>
+        <h2>Using Git with MadCap Flare</h2>
+        <h5>January 6, 2019</h5>
+        
+<a href="https://hcloward.github.io/tags/git"><kbd class="item-tag">git</kbd></a>
 
-    
-    
-    
-
-    
-    
-
-    <h4><a href="/post/using-git-with-madcap-flare/">Using Git with MadCap Flare</a></h4>
-    <h5>January 6, 2019</h5>
-    
-    <a href="https://hcloward.github.io/tags/git"><kbd class="item-tag">git</kbd></a>
-    
-    <a href="https://hcloward.github.io/tags/madcap-flare"><kbd class="item-tag">MadCap Flare</kbd></a>
-    
-
-</div>
+<a href="https://hcloward.github.io/tags/madcap-flare"><kbd class="item-tag">MadCap Flare</kbd></a>
 
 
-    <br> <div class="text-justify"><p>When I first started at my current job, the documentation team was using Subversion as the source control for their MadCap Flare projects. To access Subversion they used a graphical user interface(GUI) called TortoiseSVN. The MadCap Flare project was very large and so checking out the project to make updates took about half an hour. Furthermore, while one person on the team was making updates, the other people on the team could not. This was not the most ideal situation.</p>
+    </div>
+
+    <div align="start" class="content"><p>When I first started at my current job, the documentation team was using Subversion as the source control for their MadCap Flare projects. To access Subversion they used a graphical user interface(GUI) called TortoiseSVN. The MadCap Flare project was very large and so checking out the project to make updates took about half an hour. Furthermore, while one person on the team was making updates, the other people on the team could not. This was not the most ideal situation.</p>
 <img src="../../frustrated.jpg" class="article">
 <p>Within the first few weeks of my new job my boss informed me that her boss wanted our team to eventually begin using Git and store our repository on GitHub, where the developers were storing the product&rsquo;s code base. I had a little experience with Git since I had been investigating it for my team at my last position. We had tried to use a GUI, SourceTree, but because MadCap Flare adds metadata/XML markup updates to topics behind the scenes that are not displayed in the wysiwyg editor we kept having merge conflicts. So, I tried using the interface Flare provides, but there were too many issues so we stopped the investigation.</p>
 <img src="../../download.png" class="article">
-<p>Since I had some experience, my boss appointed me the job of creating a plan for switching from SVN to Git and I was happy to accept the challenge. This time I did not want to use SourceTree, but GitHub had created it&rsquo;s own GUI, the <a href="https://desktop.github.com/">GitHub Desktop App</a>, so I created a plan using the GitHub Desktop App. However, as I found out later this application would not work because it was decided that our repo was to be a folder added to the main code base. Because of this we would each need to fork the main repo and then clone that repo to our local machines. The reason this was a problem is that at the time the GitHub Desktop App did not have an option for changing upstreams. So we were unable to pull from each others&rsquo; forks for peer reviews. So I needed a different way for us to access the repos.</p>
+<p>Since I had some experience, my boss appointed me the job of creating a plan for switching from SVN to Git and I was happy to accept the challenge. This time I did not want to use SourceTree, but GitHub had created it&rsquo;s own GUI, the <a href="https://desktop.github.com/">GitHub Desktop App</a>, so I created a plan using the GitHub Desktop App. However, as I found out later this application would not work because it was decided that our repo was to be a folder added to the main code base. Because of this we would each need to fork the main repo and then clone that repo to our local machines. The reason this was a problem is that at the time the GitHub Desktop App did not have an option for changing upstreams. So we were unable to pull from each others' forks for peer reviews. So I needed a different way for us to access the repos.</p>
 <img src="../../octocat.jpg" class="article" id="octocat">
 <p>It was at this time that the Git guru at our company told me that it was better to use the command line to avoid things happening behind the scenes with a GUI. I was resistant as my colleagues were not likely to enjoy using the command line, but eventually I realized this was the only solution. So I wrote a plan using Git Bash. Git Bash is a BASH emulation used to run Git from the command line. The BASH emulation behaves just like the &ldquo;git&rdquo; command in LINUX and UNIX environments. As it turned out this plan ended up being the go-to plan for our team. I wrote up a series of commands for forking the repo, cloning the repo, then pulling branches from different upstreams, and pushing up to the remotes. These commands worked for quite a while, but the complication of having our code tied into the main product code became too cumbersome. Eventually, it was decided that the documentation team should have a separate GitHub repo.</p>
 <img src="../../linuxPenguin.png" class="article" id="penguin">
@@ -166,19 +154,20 @@
 
     
     
-
     
 
+    
     
 
 </main>
 
         <footer>
-
-            <p class="copyright text-muted">© All rights reserved. Powered by <a href="https://gohugo.io">Hugo</a> and <a href="https://github.com/calintat/minimal">Minimal</a></p>
-
+            <p class="copyright text-muted">© All rights reserved. Powered by <a href="https://gohugo.io">Hugo</a> and <a href="https://github.com/calintat/minimal">Minimal</a>.</p>
         </footer>
-       
+
+        
+
+        
     </body>
 
 </html>
