@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hcloward.github.io/samplewritings/javaspringvulny/</loc>
+  </url><url>
     <loc>https://hcloward.github.io/project/project5/</loc>
+  </url><url>
+    <loc>https://hcloward.github.io/samplewritings/flex-gateway/</loc>
+  </url><url>
+    <loc>https://hcloward.github.io/samplewritings/redoc/</loc>
+  </url><url>
+    <loc>https://hcloward.github.io/project/project4/</loc>
   </url><url>
     <loc>https://hcloward.github.io/samplewritings/eventhooksexs/</loc>
   </url><url>
     <loc>https://hcloward.github.io/samplewritings/eventhooks/</loc>
   </url><url>
-    <loc>https://hcloward.github.io/samplewritings/casc-bundle-api/</loc>
-  </url><url>
-    <loc>https://hcloward.github.io/project/project4/</loc>
-  </url><url>
     <loc>https://hcloward.github.io/project/project2/</loc>
+  </url><url>
+    <loc>https://hcloward.github.io/samplewritings/casc-bundle-api/</loc>
   </url><url>
     <loc>https://hcloward.github.io/samplewritings/rbac-api/</loc>
   </url><url>
@@ -102,6 +108,8 @@
   </url><url>
     <loc>https://hcloward.github.io/tags/flexbox/</loc>
   </url><url>
+    <loc>https://hcloward.github.io/tags/gateway/</loc>
+  </url><url>
     <loc>https://hcloward.github.io/tags/github/</loc>
   </url><url>
     <loc>https://hcloward.github.io/tags/github-app/</loc>
@@ -121,6 +129,8 @@
     <loc>https://hcloward.github.io/tags/liquid/</loc>
   </url><url>
     <loc>https://hcloward.github.io/tags/markdown/</loc>
+  </url><url>
+    <loc>https://hcloward.github.io/tags/open-source/</loc>
   </url><url>
     <loc>https://hcloward.github.io/tags/pandoc/</loc>
   </url><url>
