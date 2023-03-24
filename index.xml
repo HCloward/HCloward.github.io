@@ -17,15 +17,6 @@
     </item>
     
     <item>
-      <title>DSP (Syniti) Help</title>
-      <link>https://hcloward.github.io/project/project5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hcloward.github.io/project/project5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Getting Started with Flex Gateway</title>
       <link>https://hcloward.github.io/samplewritings/flex-gateway/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -44,11 +35,20 @@
     </item>
     
     <item>
-      <title>Entota Help</title>
-      <link>https://hcloward.github.io/project/project4/</link>
+      <title>WTD India MeetUp Talk</title>
+      <link>https://hcloward.github.io/project/project6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/project/project4/</guid>
+      <guid>https://hcloward.github.io/project/project6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DSP (Syniti) Help</title>
+      <link>https://hcloward.github.io/project/project5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/project/project5/</guid>
       <description></description>
     </item>
     
@@ -71,15 +71,6 @@
     </item>
     
     <item>
-      <title>BOA Doc Team Process/Standards Docs Site</title>
-      <link>https://hcloward.github.io/project/project2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hcloward.github.io/project/project2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>CasC bundle management on Operations Center API</title>
       <link>https://hcloward.github.io/samplewritings/casc-bundle-api/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -89,11 +80,29 @@
     </item>
     
     <item>
+      <title>Entota Help</title>
+      <link>https://hcloward.github.io/project/project4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/project/project4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Role-based access control (RBAC) API reference</title>
       <link>https://hcloward.github.io/samplewritings/rbac-api/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hcloward.github.io/samplewritings/rbac-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BOA Doc Team Process/Standards Docs Site</title>
+      <link>https://hcloward.github.io/project/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/project/project2/</guid>
       <description></description>
     </item>
     
@@ -116,20 +125,20 @@
     </item>
     
     <item>
-      <title>DSP Online Help Site</title>
-      <link>https://hcloward.github.io/project/project1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hcloward.github.io/project/project1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Using GitHub App authentication</title>
       <link>https://hcloward.github.io/samplewritings/githubappauth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hcloward.github.io/samplewritings/githubappauth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DSP Online Help Site</title>
+      <link>https://hcloward.github.io/project/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/project/project1/</guid>
       <description></description>
     </item>
     
