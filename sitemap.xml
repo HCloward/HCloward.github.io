@@ -2,13 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hcloward.github.io/samplewritings/javaspringvulny/</loc>
-  </url><url>
-    <loc>https://hcloward.github.io/samplewritings/flex-gateway/</loc>
-  </url><url>
-    <loc>https://hcloward.github.io/samplewritings/redoc/</loc>
+    <loc>https://hcloward.github.io/samplewritings/ux-writing-portfolio/</loc>
   </url><url>
     <loc>https://hcloward.github.io/project/project6/</loc>
+  </url><url>
+    <loc>https://hcloward.github.io/samplewritings/javaspringvulny/</loc>
   </url><url>
     <loc>https://hcloward.github.io/project/project5/</loc>
   </url><url>
@@ -20,11 +18,15 @@
   </url><url>
     <loc>https://hcloward.github.io/project/project4/</loc>
   </url><url>
+    <loc>https://hcloward.github.io/samplewritings/flex-gateway/</loc>
+  </url><url>
     <loc>https://hcloward.github.io/samplewritings/rbac-api/</loc>
   </url><url>
     <loc>https://hcloward.github.io/project/project2/</loc>
   </url><url>
     <loc>https://hcloward.github.io/samplewritings/developerguide/</loc>
+  </url><url>
+    <loc>https://hcloward.github.io/samplewritings/redoc/</loc>
   </url><url>
     <loc>https://hcloward.github.io/project/project3/</loc>
   </url><url>
@@ -156,9 +158,15 @@
   </url><url>
     <loc>https://hcloward.github.io/tags/test/</loc>
   </url><url>
+    <loc>https://hcloward.github.io/tags/tutorial/</loc>
+  </url><url>
     <loc>https://hcloward.github.io/tags/uikit/</loc>
   </url><url>
     <loc>https://hcloward.github.io/tags/use-cases/</loc>
+  </url><url>
+    <loc>https://hcloward.github.io/tags/ux-writing/</loc>
+  </url><url>
+    <loc>https://hcloward.github.io/tags/voice/</loc>
   </url><url>
     <loc>https://hcloward.github.io/tags/web-accessibility/</loc>
   </url><url>

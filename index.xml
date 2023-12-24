@@ -8,29 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hcloward.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Automate Tests with GitHub Actions Tutorial</title>
-      <link>https://hcloward.github.io/samplewritings/javaspringvulny/</link>
+      <title>UX Writing Portfolio</title>
+      <link>https://hcloward.github.io/samplewritings/ux-writing-portfolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/samplewritings/javaspringvulny/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Flex Gateway</title>
-      <link>https://hcloward.github.io/samplewritings/flex-gateway/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hcloward.github.io/samplewritings/flex-gateway/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Season of Docs - Redoc deployment guide</title>
-      <link>https://hcloward.github.io/samplewritings/redoc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hcloward.github.io/samplewritings/redoc/</guid>
+      <guid>https://hcloward.github.io/samplewritings/ux-writing-portfolio/</guid>
       <description></description>
     </item>
     
@@ -40,6 +22,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hcloward.github.io/project/project6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automate Tests with GitHub Actions Tutorial</title>
+      <link>https://hcloward.github.io/samplewritings/javaspringvulny/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/samplewritings/javaspringvulny/</guid>
       <description></description>
     </item>
     
@@ -89,6 +80,15 @@
     </item>
     
     <item>
+      <title>Getting Started with Flex Gateway</title>
+      <link>https://hcloward.github.io/samplewritings/flex-gateway/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/samplewritings/flex-gateway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Role-based access control (RBAC) API reference</title>
       <link>https://hcloward.github.io/samplewritings/rbac-api/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -112,6 +112,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hcloward.github.io/samplewritings/developerguide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Season of Docs - Redoc deployment guide</title>
+      <link>https://hcloward.github.io/samplewritings/redoc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/samplewritings/redoc/</guid>
       <description></description>
     </item>
     
