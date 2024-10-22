@@ -2,35 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hcloward.github.io/samplewritings/ux-writing-portfolio/</loc>
+    <loc>https://hcloward.github.io/samplewritings/reunite-get-started/</loc>
   </url><url>
     <loc>https://hcloward.github.io/project/project6/</loc>
   </url><url>
-    <loc>https://hcloward.github.io/samplewritings/javaspringvulny/</loc>
-  </url><url>
     <loc>https://hcloward.github.io/project/project5/</loc>
   </url><url>
-    <loc>https://hcloward.github.io/samplewritings/eventhooksexs/</loc>
+    <loc>https://hcloward.github.io/samplewritings/newsletter/</loc>
   </url><url>
-    <loc>https://hcloward.github.io/samplewritings/eventhooks/</loc>
-  </url><url>
-    <loc>https://hcloward.github.io/samplewritings/casc-bundle-api/</loc>
+    <loc>https://hcloward.github.io/samplewritings/javaspringvulny/</loc>
   </url><url>
     <loc>https://hcloward.github.io/project/project4/</loc>
-  </url><url>
-    <loc>https://hcloward.github.io/samplewritings/flex-gateway/</loc>
   </url><url>
     <loc>https://hcloward.github.io/samplewritings/rbac-api/</loc>
   </url><url>
     <loc>https://hcloward.github.io/project/project2/</loc>
   </url><url>
-    <loc>https://hcloward.github.io/samplewritings/developerguide/</loc>
+    <loc>https://hcloward.github.io/samplewritings/eventhooks/</loc>
+  </url><url>
+    <loc>https://hcloward.github.io/samplewritings/eventhooksexs/</loc>
   </url><url>
     <loc>https://hcloward.github.io/samplewritings/redoc/</loc>
   </url><url>
     <loc>https://hcloward.github.io/project/project3/</loc>
   </url><url>
-    <loc>https://hcloward.github.io/samplewritings/githubappauth/</loc>
+    <loc>https://hcloward.github.io/samplewritings/casc-bundle-api/</loc>
   </url><url>
     <loc>https://hcloward.github.io/project/project1/</loc>
   </url><url>
@@ -38,17 +34,25 @@
   </url><url>
     <loc>https://hcloward.github.io/samplewritings/agentdoc/</loc>
   </url><url>
+    <loc>https://hcloward.github.io/samplewritings/ux-writing-portfolio/</loc>
+  </url><url>
+    <loc>https://hcloward.github.io/samplewritings/flex-gateway/</loc>
+  </url><url>
     <loc>https://hcloward.github.io/samplewritings/user-manual/</loc>
   </url><url>
     <loc>https://hcloward.github.io/samplewritings/applicationpolicy/</loc>
   </url><url>
     <loc>https://hcloward.github.io/samplewritings/ssgpowerpoint/</loc>
   </url><url>
-    <loc>https://hcloward.github.io/samplewritings/docusauruspoc/</loc>
+    <loc>https://hcloward.github.io/samplewritings/githubappauth/</loc>
   </url><url>
     <loc>https://hcloward.github.io/samplewritings/article2/</loc>
   </url><url>
     <loc>https://hcloward.github.io/samplewritings/article1/</loc>
+  </url><url>
+    <loc>https://hcloward.github.io/samplewritings/developerguide/</loc>
+  </url><url>
+    <loc>https://hcloward.github.io/samplewritings/docusauruspoc/</loc>
   </url><url>
     <loc>https://hcloward.github.io/samplewritings/udacityres/</loc>
   </url><url>
@@ -114,6 +118,8 @@
   </url><url>
     <loc>https://hcloward.github.io/tags/gateway/</loc>
   </url><url>
+    <loc>https://hcloward.github.io/tags/get-started/</loc>
+  </url><url>
     <loc>https://hcloward.github.io/tags/github/</loc>
   </url><url>
     <loc>https://hcloward.github.io/tags/github-app/</loc>
@@ -135,6 +141,8 @@
     <loc>https://hcloward.github.io/tags/liquid/</loc>
   </url><url>
     <loc>https://hcloward.github.io/tags/markdown/</loc>
+  </url><url>
+    <loc>https://hcloward.github.io/tags/newsletter/</loc>
   </url><url>
     <loc>https://hcloward.github.io/tags/open-source/</loc>
   </url><url>

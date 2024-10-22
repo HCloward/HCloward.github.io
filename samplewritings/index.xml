@@ -7,11 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://hcloward.github.io/samplewritings/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>UX Writing Portfolio</title>
-      <link>https://hcloward.github.io/samplewritings/ux-writing-portfolio/</link>
+      <title>Get started with Reunite</title>
+      <link>https://hcloward.github.io/samplewritings/reunite-get-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/samplewritings/ux-writing-portfolio/</guid>
+      <guid>https://hcloward.github.io/samplewritings/reunite-get-started/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redocly newsletter</title>
+      <link>https://hcloward.github.io/samplewritings/newsletter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/samplewritings/newsletter/</guid>
       <description></description>
     </item>
     
@@ -25,11 +34,11 @@
     </item>
     
     <item>
-      <title>Event Hooks Examples</title>
-      <link>https://hcloward.github.io/samplewritings/eventhooksexs/</link>
+      <title>Role-based access control (RBAC) API reference</title>
+      <link>https://hcloward.github.io/samplewritings/rbac-api/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/samplewritings/eventhooksexs/</guid>
+      <guid>https://hcloward.github.io/samplewritings/rbac-api/</guid>
       <description></description>
     </item>
     
@@ -43,38 +52,11 @@
     </item>
     
     <item>
-      <title>CasC bundle management on Operations Center API</title>
-      <link>https://hcloward.github.io/samplewritings/casc-bundle-api/</link>
+      <title>Event Hooks Examples</title>
+      <link>https://hcloward.github.io/samplewritings/eventhooksexs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/samplewritings/casc-bundle-api/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Flex Gateway</title>
-      <link>https://hcloward.github.io/samplewritings/flex-gateway/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hcloward.github.io/samplewritings/flex-gateway/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Role-based access control (RBAC) API reference</title>
-      <link>https://hcloward.github.io/samplewritings/rbac-api/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hcloward.github.io/samplewritings/rbac-api/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Slack Integration</title>
-      <link>https://hcloward.github.io/samplewritings/developerguide/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hcloward.github.io/samplewritings/developerguide/</guid>
+      <guid>https://hcloward.github.io/samplewritings/eventhooksexs/</guid>
       <description></description>
     </item>
     
@@ -88,11 +70,11 @@
     </item>
     
     <item>
-      <title>Using GitHub App authentication</title>
-      <link>https://hcloward.github.io/samplewritings/githubappauth/</link>
+      <title>CasC bundle management on Operations Center API</title>
+      <link>https://hcloward.github.io/samplewritings/casc-bundle-api/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/samplewritings/githubappauth/</guid>
+      <guid>https://hcloward.github.io/samplewritings/casc-bundle-api/</guid>
       <description></description>
     </item>
     
@@ -111,6 +93,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hcloward.github.io/samplewritings/agentdoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UX Writing Portfolio</title>
+      <link>https://hcloward.github.io/samplewritings/ux-writing-portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/samplewritings/ux-writing-portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Flex Gateway</title>
+      <link>https://hcloward.github.io/samplewritings/flex-gateway/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/samplewritings/flex-gateway/</guid>
       <description></description>
     </item>
     
@@ -142,11 +142,11 @@
     </item>
     
     <item>
-      <title>Docusaurus POC</title>
-      <link>https://hcloward.github.io/samplewritings/docusauruspoc/</link>
+      <title>Using GitHub App authentication</title>
+      <link>https://hcloward.github.io/samplewritings/githubappauth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/samplewritings/docusauruspoc/</guid>
+      <guid>https://hcloward.github.io/samplewritings/githubappauth/</guid>
       <description></description>
     </item>
     
@@ -165,6 +165,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hcloward.github.io/samplewritings/article1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slack Integration</title>
+      <link>https://hcloward.github.io/samplewritings/developerguide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/samplewritings/developerguide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docusaurus POC</title>
+      <link>https://hcloward.github.io/samplewritings/docusauruspoc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/samplewritings/docusauruspoc/</guid>
       <description></description>
     </item>
     

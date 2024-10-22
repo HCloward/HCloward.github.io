@@ -8,11 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hcloward.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>UX Writing Portfolio</title>
-      <link>https://hcloward.github.io/samplewritings/ux-writing-portfolio/</link>
+      <title>Get started with Reunite</title>
+      <link>https://hcloward.github.io/samplewritings/reunite-get-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/samplewritings/ux-writing-portfolio/</guid>
+      <guid>https://hcloward.github.io/samplewritings/reunite-get-started/</guid>
       <description></description>
     </item>
     
@@ -26,15 +26,6 @@
     </item>
     
     <item>
-      <title>Automate Tests with GitHub Actions Tutorial</title>
-      <link>https://hcloward.github.io/samplewritings/javaspringvulny/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hcloward.github.io/samplewritings/javaspringvulny/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>DSP (Syniti) Help</title>
       <link>https://hcloward.github.io/project/project5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -44,29 +35,20 @@
     </item>
     
     <item>
-      <title>Event Hooks Examples</title>
-      <link>https://hcloward.github.io/samplewritings/eventhooksexs/</link>
+      <title>Redocly newsletter</title>
+      <link>https://hcloward.github.io/samplewritings/newsletter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/samplewritings/eventhooksexs/</guid>
+      <guid>https://hcloward.github.io/samplewritings/newsletter/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Event Hooks Reference</title>
-      <link>https://hcloward.github.io/samplewritings/eventhooks/</link>
+      <title>Automate Tests with GitHub Actions Tutorial</title>
+      <link>https://hcloward.github.io/samplewritings/javaspringvulny/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/samplewritings/eventhooks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CasC bundle management on Operations Center API</title>
-      <link>https://hcloward.github.io/samplewritings/casc-bundle-api/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hcloward.github.io/samplewritings/casc-bundle-api/</guid>
+      <guid>https://hcloward.github.io/samplewritings/javaspringvulny/</guid>
       <description></description>
     </item>
     
@@ -76,15 +58,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hcloward.github.io/project/project4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Flex Gateway</title>
-      <link>https://hcloward.github.io/samplewritings/flex-gateway/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hcloward.github.io/samplewritings/flex-gateway/</guid>
       <description></description>
     </item>
     
@@ -107,11 +80,20 @@
     </item>
     
     <item>
-      <title>Slack Integration</title>
-      <link>https://hcloward.github.io/samplewritings/developerguide/</link>
+      <title>Event Hooks Reference</title>
+      <link>https://hcloward.github.io/samplewritings/eventhooks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/samplewritings/developerguide/</guid>
+      <guid>https://hcloward.github.io/samplewritings/eventhooks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event Hooks Examples</title>
+      <link>https://hcloward.github.io/samplewritings/eventhooksexs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/samplewritings/eventhooksexs/</guid>
       <description></description>
     </item>
     
@@ -134,11 +116,11 @@
     </item>
     
     <item>
-      <title>Using GitHub App authentication</title>
-      <link>https://hcloward.github.io/samplewritings/githubappauth/</link>
+      <title>CasC bundle management on Operations Center API</title>
+      <link>https://hcloward.github.io/samplewritings/casc-bundle-api/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/samplewritings/githubappauth/</guid>
+      <guid>https://hcloward.github.io/samplewritings/casc-bundle-api/</guid>
       <description></description>
     </item>
     
@@ -170,6 +152,24 @@
     </item>
     
     <item>
+      <title>UX Writing Portfolio</title>
+      <link>https://hcloward.github.io/samplewritings/ux-writing-portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/samplewritings/ux-writing-portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Flex Gateway</title>
+      <link>https://hcloward.github.io/samplewritings/flex-gateway/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/samplewritings/flex-gateway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>User Manual</title>
       <link>https://hcloward.github.io/samplewritings/user-manual/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -197,11 +197,11 @@
     </item>
     
     <item>
-      <title>Docusaurus POC</title>
-      <link>https://hcloward.github.io/samplewritings/docusauruspoc/</link>
+      <title>Using GitHub App authentication</title>
+      <link>https://hcloward.github.io/samplewritings/githubappauth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hcloward.github.io/samplewritings/docusauruspoc/</guid>
+      <guid>https://hcloward.github.io/samplewritings/githubappauth/</guid>
       <description></description>
     </item>
     
@@ -220,6 +220,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hcloward.github.io/samplewritings/article1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slack Integration</title>
+      <link>https://hcloward.github.io/samplewritings/developerguide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/samplewritings/developerguide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docusaurus POC</title>
+      <link>https://hcloward.github.io/samplewritings/docusauruspoc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hcloward.github.io/samplewritings/docusauruspoc/</guid>
       <description></description>
     </item>
     
